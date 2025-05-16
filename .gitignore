@@ -1,2 +1,6 @@
 tf
-pycache
+__pycache__
+*.pt
+*.pth
+*.png
+*.gif
